@@ -18,3 +18,9 @@ body {
     width: 400px;
     height: 200px;
 }
+
+.order {
+    text-align: center;
+    justify-content: end;
+    margin-top: 90%;
+}
