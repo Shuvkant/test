@@ -18,3 +18,10 @@ body {
     width: 400px;
     height: 200px;
 }
+
+.order {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 90%;
+}
