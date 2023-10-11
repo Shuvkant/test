@@ -20,7 +20,9 @@ body {
 }
 
 .order {
+    display: flex;
     text-align: center;
-    justify-content: end;
+    justify-content: center;
+
     margin-top: 90%;
 }
